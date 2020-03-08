@@ -13,6 +13,9 @@ html {
   background-color: #353B43;
   color: #0f004e;
 }
+@-ms-viewport{
+  width: device-width;
+}
 
 body {
   background-color: #353B43;
