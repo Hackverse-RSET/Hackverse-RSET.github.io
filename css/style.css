@@ -27,29 +27,35 @@ body {
 h6,
 h2,
 h3,
-h4,
-h5
+h4
  {
-  font-weight: 400;
+  font-weight: 100;
   font-family: "Bauhaus 93", sans-serif;
 }
 
-h1 {
 
-font-family: "Arial Black", sans-serif;
-  color: #fff;
-
+#mino{
+     text-align: center;
+    font-family: "Press Start 2P"; 
+    font-size: 0.7em; 
+    color: #FFFFFF; 
+    padding:15px; 
 
 }
 
 
 
-p {
-  font-family: 'Press Start 2P', ;
+#jumbo{
+   text-align: center;
+   width: auto;
+  font-family: "Press Start 2P"; 
+  font-size: 3.3em; 
+  color: #00FFBB; 
+  padding: 15px; 
+  margin-bottom:50px; 
+  height:130px; 
 
- 
 }
-
 /*=================================================================
   Basic Setup
 ==================================================================*/
@@ -107,7 +113,7 @@ a:hover {
 .btn {
   background-color: transparent;
   color: #fff;
-  padding: 10px 30px;
+  padding: 10px 20px;
   border-radius: 0;
   transition: all .3s ease-in 0s;
 }
@@ -665,10 +671,9 @@ font-family: "Bauhaus 93", sans-serif;
 }
 
 .hero-area .block h1 {
-  font-size: 90px;
-  color: #fff;
+ 
   text-transform: capitalize;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 100px;
 }
 
@@ -935,7 +940,7 @@ font-family: "Bauhaus 93", sans-serif;
 }
 
 #map {
-  height: 370px;
+  height: 400px;
   width: 100%;
 }
 
