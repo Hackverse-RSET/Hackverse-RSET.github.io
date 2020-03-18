@@ -37,7 +37,7 @@ h4
 #mino{
      text-align: center;
     font-family: "Press Start 2P"; 
-    font-size: 0.7em; 
+    font-size: 1vw; 
     color: #FFFFFF; 
     padding:15px; 
 
@@ -46,14 +46,14 @@ h4
 
 
 #jumbo{
-   text-align: center;
-   width: auto;
+  text-align: center;
+  width: auto;
   font-family: "Press Start 2P"; 
-  font-size: 2.5em; 
+  font-size: 6vw; 
   color: #00FFBB; 
   padding: 15px; 
   margin-bottom:50px; 
-  height:130px; 
+  
 
 }
 /*=================================================================
